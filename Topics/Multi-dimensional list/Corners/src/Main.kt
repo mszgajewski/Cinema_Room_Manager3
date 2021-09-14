@@ -6,6 +6,7 @@ fun main() {
         val strings = readLine()!!.split(' ').toMutableList()
         inputList.add(strings)
     }
-   println(inputList[0][0] + inputList[0][n - 1] + inputList[0][0] + inputList[0][n - 1])
+    println(inputList[0][0] + " " + inputList[0][n - 1])
+    println(inputList[n - 1][0] + " " + inputList[n - 1][n - 1])
 
 }
