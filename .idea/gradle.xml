@@ -13,9 +13,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
