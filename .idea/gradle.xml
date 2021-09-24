@@ -13,12 +13,19 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Continuation-Passing Style" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Corners" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Cube of zeros" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
             <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fractional part" />
             <option value="$PROJECT_DIR$/Topics/The Math library/Heron's formula" />
             <option value="$PROJECT_DIR$/Topics/The Math library/Max of four numbers" />
             <option value="$PROJECT_DIR$/Topics/The Math library/National assembly" />
