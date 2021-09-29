@@ -10,12 +10,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6208#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Compilation error
-    main.kt:10:5: error: unresolved reference: printArea
-        printArea(rectangle)
-        ^
-  time: Sun, 19 Sep 2021 13:58:40 UTC
+  message: <html>Correct solution</html>
+  time: Tue, 28 Sep 2021 04:25:24 UTC
 record: -1

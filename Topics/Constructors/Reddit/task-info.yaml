@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Site(val address: String, val foundationYear: Int)
+
+    // Write the makeReddit function here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6244#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:12:24: error: type mismatch: inferred type is Unit but Site was expected
+        val reddit: Site = makeReddit()
+                           ^
+    main.kt:12:35: error: no value passed for parameter 'site'
+        val reddit: Site = makeReddit()
+                                      ^
+  time: Tue, 28 Sep 2021 04:43:42 UTC
+record: -1

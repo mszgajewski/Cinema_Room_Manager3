@@ -1,8 +1,9 @@
+class Rectangle(val width: Int, val height: Int)
 
-fun main()
-{
-    fun isEven(value: Int): Boolean {
-        return value % 2 == 0
-    }
+fun printArea(rectangle: Rectangle) {
 
+    val a = rectangle.width
+    val b = rectangle.height
+
+    println(a * b)
 }

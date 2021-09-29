@@ -6,3 +6,5 @@ content:
 - Functions as objects
 - Default arguments
 - Named arguments
+- Constructors
+- Member functions
