@@ -1,0 +1,20 @@
+type: code
+custom_name: Banana!
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(strings: MutableList<String>, str: String): MutableList<String> {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11040#comment
+status: Failed
+feedback:
+  message: "Compilation error\nmain.kt:8:17: error: type mismatch: inferred type is\
+    \ MutableList<String> but MutableList<Int> was expected\n\tprint(solution(strings,\
+    \ str).joinToString(separator = \" \"))\n                ^\nmain.kt:8:26: error:\
+    \ type mismatch: inferred type is String but Int was expected\n\tprint(solution(strings,\
+    \ str).joinToString(separator = \" \"))\n                         ^\n"
+  time: Thu, 30 Sep 2021 03:16:43 UTC
+record: -1
