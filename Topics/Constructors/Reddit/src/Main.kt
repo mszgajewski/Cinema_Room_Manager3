@@ -1,14 +1,3 @@
-fun main(){
+class Site(val address: String, val foundationYear: Int)
 
-
-    class Site(var address: String, var foundationYear: Int)
-
-    fun makeReddit():Site {
-    return Site(address = "reddit.com", foundationYear = 2005)
-
-}
-
-    val reddit: Site = makeReddit()
-    println(reddit)
-}
-
+// Write the makeReddit function here

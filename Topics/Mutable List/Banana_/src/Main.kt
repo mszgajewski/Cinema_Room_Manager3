@@ -1,4 +1,3 @@
-fun solution(numbers: MutableList<Int>, number: Int): MutableList<Int> {
-     numbers.add(number)
-    return numbers
+fun solution(strings: MutableList<String>, str: String): MutableList<String> {
+    // put your code here
 }
