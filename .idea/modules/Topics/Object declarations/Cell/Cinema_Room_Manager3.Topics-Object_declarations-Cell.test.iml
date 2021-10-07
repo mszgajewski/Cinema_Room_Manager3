@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Topics-Declaring_classes-Area_printer:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema_Room_Manager3" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Topics-Object_declarations-Cell:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Object declarations/Cell" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Cinema_Room_Manager3" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
@@ -7,15 +7,15 @@
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
         <compilerArguments>
-          <option name="destination" value="$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/build/classes/kotlin/test" />
+          <option name="destination" value="$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/build/classes/kotlin/test" />
           <option name="noStdlib" value="true" />
           <option name="noReflect" value="true" />
-          <option name="moduleName" value="Topics-Declaring_classes-Area_printer" />
+          <option name="moduleName" value="Topics-Object_declarations-Cell" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/build/classes/java/main" />
-              <option value="$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/build/classes/kotlin/main" />
-              <option value="$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/build/libs/Topics-Declaring_classes-Area_printer.jar" />
+              <option value="$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/build/libs/Topics-Object_declarations-Cell.jar" />
             </array>
           </option>
           <option name="languageVersion" value="1.5" />
@@ -42,13 +42,13 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../../Topics/Declaring classes/Area printer/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Object declarations/Cell/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Cinema_Room_Manager3.Topics-Declaring_classes-Area_printer.main" />
+    <orderEntry type="module" module-name="Cinema_Room_Manager3.Topics-Object_declarations-Cell.main" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.21" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.21" level="project" />
@@ -56,5 +56,5 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.21" level="project" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Cinema_Room_Manager3.Topics-Declaring_classes-Area_printer.main" />
+  <component name="TestModuleProperties" production-module="Cinema_Room_Manager3.Topics-Object_declarations-Cell.main" />
 </module>
