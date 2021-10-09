@@ -1,12 +1,12 @@
-
 object PlayingField {
     object Size {
-        var width: Int = 2
-        var height: Int = 2
+        var width = 4
+        var height = 6
     }
 
-    fun changeSize(newWidth: Int, newHeight: Int) {
-        var newWidth = Size.width
-        var newHeight = Size.height
+    fun changeSize(width: Int, height: Int) {
+        Size.width = width
+        Size.height = height
+
     }
 }
