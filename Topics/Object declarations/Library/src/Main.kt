@@ -1,10 +1,5 @@
-import kotlin.math.absoluteValue
-
 object Math {
-    fun abs(integer: Int = readLine()!!.toInt()): Int {
-        return integer.absoluteValue
-    }
-    fun abs(double: Double = readLine()!!.toDouble()): Double {
-        return double.absoluteValue
-    }
+    fun abs(value: Int): Int = if (value < 0) -value else value
+    
+    fun abs(value: Double): Double = if (value < 0) -value else value
 }

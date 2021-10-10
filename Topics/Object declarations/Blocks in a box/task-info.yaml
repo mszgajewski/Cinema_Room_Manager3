@@ -5,5 +5,8 @@ files:
   text: 'class Block(val color: String)'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10705#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 10 Oct 2021 20:56:27 UTC
 record: -1
