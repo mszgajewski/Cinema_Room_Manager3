@@ -6,8 +6,6 @@ fun g(n: Int) {
     print("*")
     if (n > 1) f(n - 3)
 }
-
 fun main() {
-    g(10)
+    g(f10))
 }
-
