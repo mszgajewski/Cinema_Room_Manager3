@@ -14,3 +14,4 @@ content:
 - Enum
 - Set
 - Data class
+- Destructuring declarations
