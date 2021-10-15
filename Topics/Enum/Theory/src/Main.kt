@@ -1,5 +1,15 @@
-// You can experiment here, it won’t be checked
+import java.io.File
 
-fun main(args: Array<String>) {
-  // put your code here
+
+fun main() {
+    val fileName = "MyFile.txt"
+    val myFile = File(fileName)
+
+    var content = readLine()!!
+    content = content.filter { it != '*' }
+
+
+
+    myFile.writeText(content)
+
 }

@@ -9,7 +9,10 @@ files:
       // put your code here
     }
   learner_created: false
+- name: src/new.txt.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/6245#comment
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
