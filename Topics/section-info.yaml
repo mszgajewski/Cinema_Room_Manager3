@@ -13,3 +13,4 @@ content:
 - Companion object
 - Enum
 - Set
+- Data class
