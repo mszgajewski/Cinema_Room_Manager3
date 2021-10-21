@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun validateConnection() {
+        connectToServer() // suspending function that doen't compile now
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13754#comment
+status: Unchecked
+record: -1

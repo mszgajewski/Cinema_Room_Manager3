@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun doAllTheJob() {
+        // put your code here
+        // use suspending functions
+        // printProgress() and loadData()
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13757#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 21 Oct 2021 16:56:05 UTC
+record: -1

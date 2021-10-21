@@ -13,10 +13,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Topics/Asynchronous programming techniques   problems/Fix the coroutine call" />
+            <option value="$PROJECT_DIR$/Topics/Asynchronous programming techniques   problems/Theory" />
             <option value="$PROJECT_DIR$/Topics/Companion object/Fix me" />
             <option value="$PROJECT_DIR$/Topics/Companion object/Theory" />
             <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
             <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Background notifications" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Blocking until done" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Orphan launched job" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Server job" />
+            <option value="$PROJECT_DIR$/Topics/Coroutine builders  overview/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
             <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
